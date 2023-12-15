@@ -20,7 +20,7 @@ nodemon start (to start the server)
 
 #### ROUTES:
 
-#### TEACHERS
+#### -------TEACHERS-------
 
 **GET ALL TEACHERS** : localhost:5000/api/teachers - GET
 
@@ -32,7 +32,7 @@ nodemon start (to start the server)
 
 **DELETE TEACHERS**: localhost:5000/api/teachers/:id - DELETE
 
-**STUDENT PROGRESS**
+#### -------STUDENT PROGRESS-------
 
 **GET ALL PROGRESS** :localhost:5000/api/studentprogress - GET
 
@@ -44,7 +44,7 @@ nodemon start (to start the server)
 
 **DELETE PROGRESS** :localhost:5000/api/studentprogress/:id - DELETE
 
-**COACHES**
+#### -------COACHES---------
 
 **GET ALL COACHES** :localhost:5000/api/coaches - GET
 
@@ -56,7 +56,7 @@ nodemon start (to start the server)
 
 **DELETE COACHES** :localhost:5000/api/coaches/:id - DELETE
 
-**COACHES AND TEACHERS INTERACTIONS**
+#### -------COACHES AND TEACHERS INTERACTIONS-------
 
 **GET ALL COACHES AND TEACHER INTERACTIONS** : localhost:5000/api/interactions - GET
 
@@ -68,7 +68,7 @@ nodemon start (to start the server)
 
 **DELETE COACHES AND TEACHER INTERACTIONS** : localhost:5000/api/interactions/:id - DELETE
 
-**RESOURCE MANAGEMENT**
+#### -------RESOURCE MANAGEMENT-------
 
 **GET ALL RESOURCE MANAGEMENT** : localhost:5000/api/resources - GET
 
