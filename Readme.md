@@ -11,7 +11,9 @@ it's all coming from the cloud.
 RUN CMD: 
 npm install  (you install all dependencies)
 
-THE .ENV file would be send via email, but this is just a MongoDB connection string
+make a file called '.env' in the root directory 
+
+THE .env file data would be send via email, this is just a MongoDB connection string
 
 RUN CMD: 
 nodemon start (to start the server)
